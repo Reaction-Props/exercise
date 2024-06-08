@@ -1,0 +1,66 @@
+# Dependency directories
+node_modules/
+bower_components/
+
+# WebStorm project files
+.idea/
+.idea/**
+
+# Output directories
+dist/
+build/
+tmp/
+out/
+coverage/
+logs/
+
+# Runtime files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables file
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# SvelteKit build files
+.svelte-kit
+
+# Vite.js cache
+.vite
+
+# Storybook files
+storybook-static/
+
+# VSCode settings
+.vscode/
+
+# Local IDE files
+.idea/
+
+# Jest coverage
+coverage/
+
+# Next.js build output
+.next/
+
+# Gatsby files
+.cache/
+public/

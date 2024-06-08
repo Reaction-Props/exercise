@@ -1,0 +1,8 @@
+# Default ignored files
+/../../exercises /.idea/shelf/
+/../../exercises /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../exercises /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../exercises /.idea/dataSources/
+/../../exercises /.idea/dataSources.local.xml
